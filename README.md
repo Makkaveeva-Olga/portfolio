@@ -1,1 +1,14 @@
 # portfolio
+
+# Яндекс Практикум
+
+| Название проекта | Описание  | 	Используемые библиотеки и инструменты |
+|:------------- |:---------------:| -------------:|
+|[Исследование рынка недвижимости](https://github.com/Makkaveeva-Olga/portfolio/blob/main/rynok_nedvighimosti/rynok_nedvighimosti.ipynb)|Определение рыночной стоимости объектов недвижимости в Санкт-Петербурге и соседних населённых пунктах за несколько лет на основе данных Яндекс.Недвижимости |python, pandas|
+|[Анализ сервиса аренды самокатов GoFast](https://github.com/Makkaveeva-Olga/portfolio/blob/main/arenda_samakatov/arenda_samakatov.ipynb)|Анализ поведения клиентов имеющих и не имеющих подписку, пользующихся арендой самокатов GoFast через мобильное приложение |python, pandas , numpy, matplotlib, seaborn, scipy, plotly|
+|[Исследование рынка общественного питания в Москве](https://github.com/Makkaveeva-Olga/portfolio/blob/main/obshepit/obshepit.ipynb)|Исследование рынка объектов общественного питания для оптимального выбора места и величины открываемого кафе|python, pandas , matplotlib, seaborn, plotly|
+|[Сборный проект 1. Определение критериев определяющие успешность игры](https://github.com/Makkaveeva-Olga/portfolio/blob/main/Sbornyj_1_uspeshnost_%20igry/Sbornyj_1_uspeshnost_%20igry.ipynb)|Изучение критериев успешноти игры в регионе для проведения более успешной рекламной кампании|python, pandas , numpy, matplotlib, seaborn, scipy|
+|[Сборный проект 2. Анализ поведения пользователей мобильного приложения. Продукты питания](https://github.com/Makkaveeva-Olga/portfolio/blob/main/Sbornyj_2_povedeniya_pol'zovatelej_produkty_pitaniya/Sbornyj_2_povedeniya_pol'zovatelej_produkty_pitaniya.ipynb)|Изучение поведения пользователей мобильного приложения. Изучение воронки продаж. Определение того, как пользователи доходят до покупки. Изучение результатов A/A/B-эксперимента|python, pandas , matplotlib, seaborn, plotly, scipy, math|
+|[Проект Tableau Public основе данных о конференциях TED](https://github.com/Makkaveeva-Olga/portfolio/blob/main/Tableau_analiz_konferenciyah_TED/Tableau_analiz_konferenciyah_TED.ipynb) |Изучение критериев успешности выступлений и конференций на основе данных о TED-конференциях |Tableau Public|
+|[Принятие решений в бизнесе](https://github.com/Makkaveeva-Olga/portfolio/blob/main/prinyatie_reshenij_biznese/prinyatie_reshenij_biznese.ipynb)|Проверка списока гипотез для увеличения выручки. Приоритетизация гипотез, запуск A/B-тест и анализ результатов|python, pandas , numpy, matplotlib, scipy|
+|[Итоговый проект. Анализ поведения пользователей в приложении "Не нужные вещи"](https://github.com/Makkaveeva-Olga/portfolio/blob/main/Itogovyj_proekt_prilozhenie_Ne%20nuzhnye_veshchi/Itogovyj_proekt_prilozhenie_Ne%20nuzhnye_veshchi.ipynb) |Изучение поведения пользователей. По полученным данным дать рекомендации по улучшению пользовательского опыта |python, pandas , matplotlib, seaborn, plotly, scipy, scipy, numpy|
